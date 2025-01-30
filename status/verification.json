@@ -3,5 +3,11 @@
     "authorized": true,
     "lastUpdated": "2025-01-30T08:37:41.516Z",
     "lastChecked": "2025-01-30T08:37:41.516Z"
+  },
+  "com.infuse.pro": {
+    "authorized": false,
+    "lastUpdated": "2025-01-30T09:09:14.473Z",
+    "lastChecked": "2025-01-30T09:09:14.473Z",
+    "deviceId": "FXzlMU7ZVvTIHxNE00YFr/FMA76mc6etYN2iZKAhBKCkmDUyay9NEM+ZiHx8lIGClNALcEy8G9pH\n3QdGrL94b3nsGqE78SZr5s239GSHXCY=\n    "
   }
 }
