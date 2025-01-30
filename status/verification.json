@@ -1,17 +1,7 @@
 {
-  "com.infuse.mine": {
-    "authorized": true,
-    "lastUpdated": "2025-01-30T07:42:07.486Z",
-    "lastChecked": "2025-01-30T07:42:07.486Z"
-  },
   "com.infuse.pro": {
     "authorized": true,
     "lastUpdated": "2025-01-30T07:43:03.951Z",
     "lastChecked": "2025-01-30T07:43:03.951Z"
-  },
-  "com.man.test": {
-    "authorized": true,
-    "lastUpdated": "2025-01-30T08:36:51.065Z",
-    "lastChecked": "2025-01-30T08:36:51.065Z"
   }
 }
